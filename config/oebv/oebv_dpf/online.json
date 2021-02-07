@@ -1,0 +1,130 @@
+{
+  "include": "../settings.json",
+  "annotations": {
+    "overwritable": false,
+    "enabled": true,
+    "sync": {
+      "server": {
+        "baseUrl": "",
+        "httpAuth": {
+          "enabled": false,
+          "user": "",
+          "password": ""
+        },
+        "apiKey": ""
+      }
+    }
+  },
+  "userInfo": {
+    "loginToken": "",
+    "nickName": ""
+  },  
+  "tooltips": {
+    "overwritable": true,
+    "enabled": true
+  },
+  "welcome": {
+    "overwritable": true,
+    "enabled": true
+  },
+  "rememberLastPage": {
+    "overwritable": true,
+    "enabled": true
+  },
+  "ctrlCloudIcon": {
+    "overwritable": false,
+    "enabled": false,
+    "link": ""
+  },
+  "ctrlSearch": {
+    "overwritable": false,
+    "enabled": true
+  },
+  "ctrlMenuInfo": {
+    "overwritable": false,
+    "enabled": true
+  },
+  "ctrlHelp": {
+    "overwritable": false,
+    "enabled": true
+  },
+  "ctrlSettings": {
+    "overwritable": false,
+    "enabled": true
+  },
+  "newsService": {
+    "overwritable": false,
+    "enabled": false,
+    "baseUrl": ""
+  },
+  "sidebar":{
+    "overwritable": false,
+    "enabled": true
+  },
+  "ctrlAnnotations": {
+    "overwritable": false,
+    "enabled": true
+  },
+  "ctrlNotes": {
+    "overwritable": false,
+    "enabled": true
+  },
+  "ctrlLine": {
+    "overwritable": false,
+    "enabled": true
+  },
+  "ctrlDraw": {
+    "overwritable": false,
+    "enabled": true
+  },
+  "ctrlSelect": {
+    "overwritable": false,
+    "enabled": true
+  },
+  "ctrlSelectAll": {
+    "overwritable": false,
+    "enabled": true
+  },
+  "ctrlDelete": {
+    "overwritable": false,
+    "enabled": true
+  },
+  "ctrlBookmark": {
+    "overwritable": false,
+    "enabled": true
+  },
+  "ctrlFullscreen": {
+    "overwritable": false,
+    "enabled": true
+  },
+  "ctrlInteractive": {
+    "overwritable": false,
+    "enabled": true
+  },
+  "ctrlCover": {
+    "overwritable": false,
+    "enabled": true
+  },
+  "ctrlFocus": {
+    "overwritable": false,
+    "enabled": true
+  },
+  "interactive":{
+    "overwritable": false,
+    "enabled": true
+  },
+    "closeDialogue": {
+    "overwritable": false,
+    "enabled": true
+  },
+    "menu": [ {
+      "type": "button",
+      "filter": {
+        "bottom": [],
+        "top": []
+      },
+      "title": "Digitale Präsentationsfassung",
+      "hasNews": false
+    }]
+  }
+}

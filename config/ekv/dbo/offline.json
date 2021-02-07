@@ -1,0 +1,39 @@
+{
+  "include": "../settings.json",
+  "annotations": {
+    "overwritable": false,
+    "enabled": false,
+    "sync": {
+      "allowed": false,
+      "enabled": false
+    }
+  },
+  "tooltips": {
+    "overwritable": false,
+    "enabled": true
+  },
+  "ctrlSearch": {
+    "overwritable": false,
+    "enabled": true
+  },
+  "ctrlMenuInfo": {
+    "overwritable": false,
+    "enabled": false
+  },
+  "ctrlSettings": {
+    "overwritable": false,
+    "enabled": false
+  },
+  "ctrlHelp": {
+    "overwritable": false,
+    "enabled": false
+  },
+  "ctrlHome": {
+    "overwritable": false,
+    "enabled": true
+  },
+  "ctrlDirectory": {
+    "overwritable": false,
+    "enabled": false
+  }
+}

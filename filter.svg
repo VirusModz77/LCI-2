@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="SelectShadow" filterUnits="userSpaceOnUse" x="0" y="0" width="100%" height="100%">
+      <feOffset result="offOut" in="SourceGraphic" dx="5" dy="5"></feOffset>
+      <feColorMatrix result="matrixOut" in="offOut" type="matrix" values="0.2 0 0 0 0 0 0.2 0 0 0 0 0 0.2 0 0 0 0 0 1 0"></feColorMatrix>
+      <feGaussianBlur result="blurOut" in="matrixOut" stdDeviation="10"></feGaussianBlur>
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal"></feBlend>
+    </filter>
+  </defs>
+</svg>

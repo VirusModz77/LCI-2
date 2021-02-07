@@ -1,0 +1,105 @@
+================================================================================
+Hotline.txt			- Software-Support - 			     1.8
+================================================================================
+
+Sie haben ein Problem mit unserer Software? Im Internet finden Sie rund um die
+Uhr Hilfe zu technischen Problemen: www.klett.de/support
+
+--------------------------------------------------------------------------------
+Checkliste fuer Ihren Kontakt mit uns
+
+Der Klett Software-Support bietet Ihnen schnelle Hilfe bei technischen Problemen
+mit unseren digitalen Produkten. Damit wir Ihre Fragen umfassend beantworten 
+koennen, benoetigen wir einige Informationen zu Ihrer PC-Ausstattung und zum
+aufgetretenen Problem. Diese Checkliste soll Ihnen dabei helfen. Senden Sie
+diese ausgefuellt per E-Mail, Post oder Fax an uns zurueck, die Kontaktadresse
+finden Sie am Ende dieses Dokuments.
+
+
+--------------------------------------------------------------------------------
+Checkliste
+--------------------------------------------------------------------------------
+
+Name, Vorname:
+Strasse/Nr:
+Postleitzahl/Ort:
+Telefon:
+Fax:
+E-Mail:
+Klett-Kundennummer:
+
+
+--------------------------------------------------------------------------------
+Produktinformation
+
+Name der Software:
+Bestellnummer (ISBN/EC-Nummer):
+
+
+--------------------------------------------------------------------------------
+Wortlaut der Fehlermeldung/genaue Beschreibung des Fehlers:
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+
+Wann ist der Fehler aufgetreten? _______________________________________________
+(Installation, Programmstart, Programmablauf, Beenden des Programms, Sonstiges?)
+
+--------------------------------------------------------------------------------
+Hardware
+
+Bitte teilen Sie uns die Bezeichnung der verwendeten Hardware mit, z.B. "Desktop
+DELL Precision Tower 3420", "MacBook Pro", "Smartphone Samsung S6":
+
+--------------------------------------------------------------------------------
+Betriebssystem:
+
+(Bitte genaue Version angeben.) 
+
+
+() Windows  __________________ () 32-bit  () 64-bit     
+
+() Mac      __________________   
+
+() iOS      __________________   
+
+() Android  __________________   
+
+() Sonstige __________________   
+
+
+--------------------------------------------------------------------------------
+Speicher
+
+Arbeitsspeicher: __________ GB RAM
+
+--------------------------------------------------------------------------------
+Sonstige Bemerkungen:
+
+
+
+
+
+--------------------------------------------------------------------------------
+So erreichen Sie uns:
+
+
+Online-Hilfe:	  www.klett.de/support
+		  
+E-Mail:           support@klett.de
+
+Telefon:          0711 - 6672 1163
+               	  Montag bis Freitag 10 - 12 und 14 - 16 Uhr
+
+Fax:              0711 - 6672 2011
+
+Post:             Ernst Klett Verlag GmbH
+                  Kundenservice - Technischer Support
+                  Postfach 10 26 45
+                  70022 Stuttgart
+
+

@@ -1,0 +1,6 @@
+{
+    "include": "../settings.json",
+	"logo": "imgs/logo_oebv.png",
+	"annotations": {"sync": {"supportEmail": "support@oebv.at"}},
+	"copyright": "Österreichischer Bundesverlag Schulbuch GmbH & Co. KG, Wien"
+}

@@ -1,0 +1,475 @@
+--------------------------------------------------------------------------------
+Lizenz.txt                 - Software-Lizenzvertrag -                      1.5.4 
+--------------------------------------------------------------------------------
+
+Nutzungsbedingungen fuer digitale Produkte und Online-Dienste der 
+Ernst Klett Verlag GmbH, Rotebuehlstrasse 77, 70178 Stuttgart
+Telefon: 07 11 / 66 72 13 33, Telefax: 07 11 / 98 80 90 00 99
+E-Mail: kundenservice@klett.de
+
+
+A.Allgemeines
+
+1. Geltung dieser Nutzungsbedingungen
+Zusaetzlich zu den AGB geltende besondere Nutzungsbedingungen fuer digitale 
+Produkte und Online?Dienste
+Fuer die Nutzung von Lizenzen digitaler Produkte sowie online angebotener 
+digitaler Produkte wie angezeigte Inhalte, Downloads, "Blaettern im Buch",
+Online?Abonnements und Online?Dienste gelten – ergaenzend zu den Allgemeinen
+Geschaeftsbedingungen – die vorliegenden Nutzungsbedingungen. Widersprechen
+sich Bestimmungen dieser Nutzungsbedingungen und der AGB, so haben die
+Bestimmungen dieser Nutzungsbedingungen Vorrang.
+
+
+2. Zustimmung zu den Nutzungsbedingungen
+Zwingende Zustimmung zu den Nutzungsbedingungen vor Installation bzw. Nutzung
+des Produktes
+Die Nutzungsbedingungen werden (1) bei auf Datentraegern vertriebenen Produkten
+durch die Installation des digitalen Produktes und (2) beim Downloadkauf oder
+der Bestellung eines Online?Dienstes – abhaengig von der Ausgestaltung des
+jeweiligen Produktes – durch den Bestellvorgang, dem Zugriff auf das 
+Produkt oder durch die Bestaetigung des eingeblendeten Lizenzvertrages beim
+Start eines digitalen Produktes selber akzeptiert. Sollten Sie den nachfolgenden
+Bestimmungen nicht zustimmen, so sehen Sie bitte von einer Installation,
+elektronischen Bestellung, dem Zugriff auf das Produkt oder von der Bestaetigung
+des Lizenzvertrages beim Start des Produktes ab. Sie sind in diesem Fall zu der
+Nutzung des Produktes nicht berechtigt.
+
+
+3. Aenderung dieser Nutzungsbedingungen
+Recht des Verlages zur Aenderungen der Nutzungsbedingungen und 
+Widerspruchsfrist; Kuendigungsrecht des Verlages
+
+3.1. Der Verlag behaelt sich vor, diese Nutzungsbedingungen jederzeit ohne 
+Angabe von Gruenden mit Wirkung fuer die Zukunft zu aendern. Fuer den Fall, 
+dass zwischen dem Verlag und dem Kunden ein dauerhaftes Vertragsverhaeltnis 
+besteht, gelten nachfolgende Regelungen.
+
+3.2 Der Verlag wird in dem Fall der Aenderung dem Kunden die geaenderten 
+Nutzungsbedingungen unter drucktechnischer Hervorhebung der Aenderungen 
+postalisch, per E-Mail oder (sobald diese Funktion zur Verfuegung steht) als 
+Nachricht im persoenlichen Postfach in "Mein Klett" uebermitteln. Die Aenderungen
+der Nutzungsbedingungen gelten als von dem Kunden genehmigt, wenn der Kunde den 
+Aenderungen nicht innerhalb eines Monats nach Erhalt der Aenderungsmitteilung 
+schriftlich oder per E-Mail widerspricht. Das Schweigen des Kunden zu den 
+geaenderten Nutzungsbedingungen steht somit einer ausdruecklichen Zustimmung des 
+Kunden zu den Aenderungen gleich. Der Verlag wird in der Aenderungsmitteilung 
+auf die Bedeutung der Monatsfrist hinweisen.
+
+3.3 Ein Widerspruch des Kunden gegen die Aenderungen der Nutzungsbedingungen ist 
+zu richten an:
+- per Brief: Ernst Klett Verlag GmbH, Kundenservice, Rotebuehlstrasse 77, 
+  70178 Stuttgart oder
+- per Telefax: 07 11 / 98 80 90 00 99 oder
+- per E-Mail: kundenservice@klett.de
+
+3.4 Uebt der Kunde das Widerspruchsrecht aus, gelten die Aenderungen der 
+Nutzungsbedingungen als abgelehnt und das Vertragsverhaeltnis wird unter 
+Zugrundelegung der urspruenglichen Nutzungsbedingungen fortgesetzt. Der Verlag 
+ist in diesem Fall jedoch berechtigt, das Vertragsverhaeltnis aus wichtigem 
+Grund zu kuendigen.
+
+
+4. Widerrufsrecht
+Bitte beachten Sie den Ausschluss des Widerrufes nach Entfernen der Versiegelung 
+eines Datentraegers (Ziffer 3.1.2 der AGB) und das vorzeitige Erloeschen des 
+Widerrufsrechts bei unkoerperlichen digitalen Produkten und Online-Diensten 
+(Ziffer 3.1.3 der AGB). 
+
+--------------------------------------------------------------------------------
+B. Nutzungsbedingungen fuer digitale Offline-Produkte und Software
+
+1. Gegenstand des Vertrages
+
+1.1 Der Verlag ("Lizenzgeber") wird dem Kunden ("Lizenznehmer") nach Massgabe 
+dieses Vertrages digitale Inhalte ("Produkt") gegen Zahlung einer Verguetung zur 
+Nutzung ueberlassen.
+
+1.2 Der Vertrieb des Produktes erfolgt nach Eingabe der fuer die Zahlung der 
+jeweiligen Lizenzgebuehr erforderlichen Daten durch den Lizenznehmer.
+
+
+2. Urheberrecht
+Urheberrecht des Verlages und Nutzungsrechte des Kunden bei Software
+
+2.1 Das Produkt ist nach den gesetzlichen Bestimmungen urheberrechtlich 
+geschuetzt.
+
+2.2. Alle aus dem Urheberrecht resultierenden Rechte stehen ausschliesslich dem 
+Lizenzgeber zu, soweit sich aus dem Lizenzvertrag nicht etwas anderes ergibt. Der 
+Lizenzgeber raeumt dem Nutzer das nicht ausschliessliche Recht ein, das Produkt 
+zu den Bedingungen dieses Lizenzvertrages ab der vollstaendigen und 
+vorbehaltslosen Zahlung der vereinbarten Verguetung zu nutzen (d.h. zu 
+installieren, zu laden und ablaufen zu lassen); im Uebrigen verbleiben alle 
+Rechte an dem Produkt und der Dokumentation bei dem Lizenzgeber. Das 
+Nutzungsrecht ist auf den vereinbarten Zeitraum, wie in der zugestellten Rechnung 
+ausgewiesen, begrenzt, in Ermangelung einer solchen Vereinbarung ist das 
+Nutzungsrecht zeitlich unbefristet. Das Nutzungsrecht erlischt in jedem Fall 
+automatisch und ohne besondere Kuendigung, wenn der Lizenznehmer eine der in 
+diesem Vertrag aufgefuehrten Bestimmungen verletzt. In diesem Fall ist der 
+Lizenznehmer verpflichtet, das Produkt sofort vollstaendig zu loeschen und/oder 
+die Sperrung seiner Zugangsberechtigung zur Nutzung des Produktes durch den 
+Lizenzgeber zu akzeptieren.
+
+2.3 Urhebervermerke, Seriennummern, Wasserzeichen und sonstige 
+Produktidentifikation duerfen in keinem Fall entfernt oder veraendert werden.
+
+2.4 Der Lizenznehmer ist nicht berechtigt, das Produkt zu uebersetzen, zu 
+bearbeiten, zu dekompilieren, zu reverse-engineeren, zu disassemblieren oder 
+durch Dritte Aenderungen oder Eingriffe am Produkt vorzunehmen, auch nicht, um 
+moegliche Programmfehler zu beseitigen. Das Herausloesen, Kopieren und 
+Weitergeben von Daten jeder Art ist ebenfalls untersagt. Die Rechte des 
+Lizenznehmers nach Paragraph 69e UrhG bleiben hiervon unberuehrt.
+
+2.5 Benoetigt der Lizenznehmer Informationen, die zur Herstellung der 
+Interoperabilitaet des Produktes mit unabhaengig geschaffenen anderen 
+Computerprogrammen unerlaesslich sind, hat er eine dahingehende Anfrage 
+schriftlich an den Lizenzgeber zu richten. Der Lizenzgeber darf die Herausgabe 
+der Informationen aus berechtigten Gruenden verweigern.
+
+2.6 Das bestimmungsgemaesse Ausdrucken von in dem Produkt angebotenen Inhalten 
+sowie das Anfertigen von Kopien dieser Materialien sind im Rahmen der 
+gesetzlichen Vorschriften gestattet. 
+
+2.7 Bearbeitung von Inhalten
+Digitale Produkte, die aufgrund ihrer Beschaffenheit eine Bearbeitung 
+ausdruecklich zulassen (insbesondere nicht schreibgeschuetzte Office-Dokumente), 
+duerfen durch den Lizenznehmer bearbeitet oder uebersetzt werden. Das 
+Herausloesen, Kopieren und Weitergeben von Daten jeder Art oder Dateien (auch die 
+selbst veraenderten) ist jedoch auch fuer diese Produkte im vorgenannten Umfang 
+untersagt. 
+
+2.8 Besonderheiten fuer Kopiervorlagen
+Besondere Rechte zur Vervielfaeltigung und eingeschraenkten Bearbeitung von 
+Kopiervorlagen; Beachtung von Quellenangaben
+
+Die Kopiervorlagen sind urheberrechtlich geschuetzt. Der Kunde ist verpflichtet, 
+die Urheberrechte zu beachten und die Kopiervorlagen nur fuer den 
+Unterrichtsgebrauch an allgemeinbildenden Schulen und nur in dem nachfolgend 
+gestatteten Umfang zu nutzen:
+
+2.8.1 Der Verlag raeumt dem Kunden das nicht ausschliessliche Recht ein, die 
+Kopiervorlagen fuer den Unterrichtsgebrauch an Schulen zu vervielfaeltigen. Der 
+Kunde ist nicht berechtigt, dieses Recht auf Dritte zu uebertragen oder eine 
+Unterlizenz zu erteilen.
+
+2.8.2 Soweit der Kunde die von dem Verlag zur Verfuegung gestellten 
+Kopiervorlagen bearbeiten oder umgestalten moechte, hat der Kunde Folgendes zu 
+beachten:
+
+a) Abbildungen, die in den Kopiervorlagen enthalten sind, darf der Kunde weder 
+bearbeiten oder umgestalten noch ausserhalb der Kopiervorlagen verwenden. Der 
+Kunde darf daher auch nicht Abbildungen zuschneiden und die so gewonnenen 
+Bildausschnitte weder innerhalb noch ausserhalb der Kopiervorlagen verwenden. 
+
+b) Texte, die in den Kopiervorlagen enthalten sind und die namentlich einem 
+Urheber zugeordnet sind (Urheberrechtsvermerk), darf der Kunde weder bearbeiten 
+oder umgestalten noch ausserhalb der Kopiervorlagen verwenden.
+
+c) Alle weiteren Texte, die nicht unter Buchstabe b) fallen, darf der Kunde 
+unter Wahrung der Urheberpersoenlichkeitsrechte der Urheber der Texte bearbeiten 
+oder umgestalten. Der Kunde darf diese Texte aber nicht uebersetzen oder 
+ausserhalb der Kopiervorlagen verwenden.
+
+d) Text- und Bildquellennachweise, die in den Kopiervorlagen vorhanden sind, darf 
+der Kunde nicht entfernen.
+
+e) Der Kunde darf in die Kopiervorlagen weitere Texte oder Abbildungen nur 
+einfuegen, wenn er fuer diese weiteren Texte oder Abbildungen ueber die 
+Nutzungsrechte zur Vervielfaeltigung in Kopiervorlagen verfuegt.
+
+2.8.3 Der Kunde ist fuer von ihm vorgenommene Bearbeitungen oder Umgestaltungen 
+der Kopiervorlagen sowie fuer sich daraus eventuell ergebende Ansprueche, auch 
+soweit es sich um Ansprueche Dritter handelt, verantwortlich. 
+
+
+3. Beginn und Dauer des Vertrags
+Bis zur vollstaendigen Zahlung der jeweils faelligen Verguetung ist dem 
+Lizenznehmer die Nutzung des Produkts nicht gestattet.
+
+
+4. Versionen/Lizenzen
+
+- Einzelversion/Einzellizenz
+Der Lizenzgeber gewaehrt dem Lizenznehmer in dem sich aus Ziffer 2 ergebenden 
+Umfang das Recht, auf das Produkt zuzugreifen bzw. dieses auf einem Endgeraet zu 
+nutzen. Produkte, deren Nutzungslizenz auf eine bestimmte Person namentlich 
+uebertragen ist, duerfen nur durch diese Person installiert und genutzt werden. 
+Der Lizenznehmer ist verpflichtet, geeignete Vorkehrungen zu treffen, die 
+verhindern, dass diese Lizenz/dieses Produkt durch andere Personen als die 
+namentlich genannte Person genutzt werden kann. 
+
+- Kollegiumslizenz
+Der Lizenzgeber gewaehrt dem Lizenznehmer in dem sich aus Ziffer 2 ergebenden 
+Umfang das Recht, das Produkt zu nutzen, auf das Produkt zuzugreifen und das 
+Produkt auf einem Server bzw. in einem lokalen Netzwerk des Lizenznehmers 
+(Schule) zu installieren, sofern dieses technisch durch den Lizenzgeber 
+ermoeglicht wird. Die Anzahl der Nutzungsberechtigten ist dabei beschraenkt auf 
+maximal 20 Lehrkraefte eines Fachkollegiums. Dabei ist nicht die Anzahl der 
+jeweils zur Verfuegung stehenden Endgeraete massgeblich, sondern die Anzahl der 
+diesen Personen vom Lizenznehmer zugeordneten, persoenlichen Netzwerk- oder 
+Serverzugaenge. Zudem ist die Installation, Nutzung bzw. der Zugriff auf das 
+Produkt zur Unterrichtsvorbereitung auf jeweils einem einzelnen privaten bzw. 
+nicht der erwerbenden Schule gehoerenden Endgeraet der jeweils im Kontext des 
+Lizenznehmers (Schule) nutzenden Lehrkraft zulaessig. 
+
+- Klassenlizenz
+Der Lizenzgeber gewaehrt dem Lizenznehmer in dem sich aus Nr. 2 ergebenden Umfang 
+das Recht, das Produkt zu nutzen, auf das Produkt zuzugreifen und das Produkt auf 
+einem Server bzw. in einem lokalen Netzwerk des Lizenznehmers (Schule) zu 
+installieren, sofern dieses technisch durch den Lizenzgeber ermoeglicht wird. Die 
+Anzahl der Nutzungsberechtigten ist dabei beschraenkt auf die Lehrkraft eines 
+Faches in einer Klasse bzw. in einem Kurs und die jeweiligen Schuelerinnen und 
+Schueler dieser Klasse bzw. dieses Kurses an einem Institut des Lizenznehmers 
+(Schule). Die Anzahl der Endgeraete im lokalen Netzwerk, in dem das Produkt 
+installiert wird, ist jedoch nicht beschraenkt, soweit diese Endgeraete dem 
+Lizenznehmer (Schule) gehoeren. Eine Installation auf weiteren Servern ist dabei 
+unzulaessig. Zudem ist die Installation, Nutzung bzw. der Zugriff auf das Produkt 
+zur Unterrichtsvorbereitung auf einzelnen privaten bzw. nicht der erwerbenden 
+Schule gehoerenden Endgeraeten fuer die betroffene Lehrkraft des Faches des 
+Lizenznehmers (Schule) zulaessig. Der Lizenznehmer (Schule) wird die Lehrkraft, 
+die das Produkt nach den vorstehenden Regelungen bestimmungsgemaess nutzen darf, 
+zur Einhaltung dieses Lizenzvertrages verpflichten. Der Zugriff auf ein Online- 
+Produkt ist bei der Klassenlizenz spatial nicht eingeschraenkt. 
+
+- Schulversion/Schullizenz
+Der Lizenzgeber gewaehrt dem Lizenznehmer in dem sich aus Nr. 2 ergebenden Umfang 
+das Recht, das Produkt auf einem Server bzw. in einem lokalen Netzwerk der 
+erwerbenden Schule zu installieren, zu nutzen bzw. auf das Produkt zuzugreifen. 
+Die Anzahl der Computer im lokalen Netzwerk ist dabei nicht beschraenkt. Eine 
+Installation auf weiteren Servern ist dabei unzulaessig. Zudem ist die 
+Installation zur Unterrichtsvorbereitung auf einzelnen privaten bzw. nicht der 
+erwerbenden Schule gehoerenden Computern fuer Lehrerkraefte der erwerbenden 
+Institution zulaessig. Der Zugriff auf ein Online-Produkt ist dagegen spatial 
+nicht eingeschraenkt. 
+
+
+5. Besonderheiten fuer Inhalte, die auf physischen Datentraegern ausgeliefert/
+erworben wurden (kurz: "Softwareprodukt")
+Recht zur Weiterveraeusserung, Anspruch auf Sicherungskopie, keine Bereitstellung 
+des Quellcodes
+
+5.1 Sie sind befugt, den Originaldatentraeger des Softwareproduktes 
+einschliesslich des Benutzerhandbuches und des sonstigen Begleitmaterials an 
+berechtigte Dritte zu veraeussern, vorausgesetzt der erwerbende Dritte erklaert 
+sich mit der Weitergeltung der vorliegenden Vertragsbedingungen einverstanden. 
+Infolge der Weitergabe erlischt Ihr Recht zur Nutzung des Softwareproduktes. Sie 
+duerfen das Softwareprodukt einschliesslich des Benutzerhandbuchs und des 
+sonstigen Begleitmaterials Dritten nicht vermieten oder verleasen.
+
+5.2 Die Herstellung von Sicherungskopien des Softwareproduktes ist unzulaessig. 
+Sofern trotz sachgemaesser Behandlung aufgrund von Beschaedigungen, die den 
+Gebrauch des Softwareproduktes erheblich einschraenken, ein neuer Datentraeger 
+oder ein neues Handbuch benoetigt wird, wenden Sie sich bitte an den Verlag 
+(support@klett.de). Ein Austausch des Softwareproduktes wird in diesen Faellen 
+vom Verlag fuer den Zeitraum der gewoehnlichen Nutzungsdauer eines solchen 
+Softwareproduktes kostenlos vorgenommen.
+
+5.3 Die Ueberlassung von Softwareprodukten erfolgt ausschliesslich in 
+maschinenlesbarer Form (object code). Der Quellcode (source code) ist nicht 
+Vertragsgegenstand und wird nicht mit ausgeliefert.
+
+
+6. Gewaehrleistung und Haftung
+Die Verjaehrungsfrist fuer Ansprueche von anderen Lizenznehmern als 
+Privatpersonen wegen Sachmaengeln an den Produkten betraegt 12 Monate. Dies gilt 
+nicht, soweit das Gesetz laengere Fristen zwingend vorschreibt, sowie in Faellen 
+der Verletzung des Lebens, des Koerpers oder der Gesundheit, bei Verletzung von 
+Garantien, bei einer vorsaetzlichen oder grob fahrlaessigen Pflichtverletzung des 
+Lizenzgebers und bei arglistigem Verschweigen eines Mangels. Die Frist beginnt 
+mit dem Zeitpunkt des Gefahruebergangs.
+Bei einigen Produkten kann es aufgrund dem Verlag nicht zustehender digitaler 
+Veroeffentlichungsrechte dazu kommen, dass bestimmte textuelle, bildliche oder 
+mediale Elemente nicht angezeigt werden duerfen. Dies begruendet keinen Mangel.
+
+--------------------------------------------------------------------------------
+C. Nutzungsbedingungen fuer digitale Produkte (ausser digitale Offline-Produkte 
+und Software)
+
+1. "Blaettern im Buch"
+Die Inhalte des Angebotes "Blaettern im Buch" dienen ausschliesslich 
+Demonstrationszwecken, sofern nichts anderes angegeben ist. Eine dauerhafte 
+(also ueber die Speicherung im Arbeitsspeicher hinausgehende) Speicherung, 
+Vervielfaeltigung, Weitergabe oder oeffentliche bzw. schulische Praesentation der 
+Inhalte ist nicht vorgesehen und unzulaessig. 
+
+
+2. Online-Links und Codes
+Ueber Online-Links/Codes bereit gestellte Inhalte dienen ausschliesslich der 
+Ergaenzung anderer Produkte des Verlages und unterliegen hinsichtlich der Nutzung 
+und Weitergabe denselben Beschraenkungen wie die Produkte, in denen auf die 
+Online-Links/Codes hingewiesen wird.
+Die Verwendung der Inhalte ist nur im Zusammenhang mit der Nutzung des Produktes, 
+zu dem die Inhalte des Online-Links/Codes eine Ergaenzung darstellt, gestattet. 
+Auf Online-Links/Codes des Verlages darf aus anderen, nicht von dem Verlag 
+herausgegebenen Online- oder Offline-Medien nicht direkt verwiesen oder verlinkt 
+werden. 
+
+
+3. Digitale Schulbuecher (DSB)
+
+3.1 Ab dem 01.01.2016 erworbene Lizenzen zur Nutzung von DSB durch Schuelerinnen 
+und Schueler haben eine Laufzeit von 365 Tagen ab Freischaltung des 
+Lizenzschluessels.
+
+3.2 Die Laufzeiten vor dem 01.01.2016 erworbener Lizenzen bleiben unberuehrt. 
+
+
+4. Nutzungsrechte
+Mit Zahlung des Kaufpreises fuer die digitalen Produkte erteilt der Verlag dem 
+Kunden ein nicht uebertragbares Recht zur Nutzung der digitalen Inhalte fuer den 
+privaten und schulinternen Gebrauch, jeweils vorbehaltlich der 
+Nutzungsbedingungen fuer die Produkte und in Uebereinstimmung mit diesen 
+Nutzungsbedingungen.
+Der Kunde darf die digitalen Inhalte unter Einhaltung der Nutzungsbedingungen nur 
+zum privaten und schulinternen Gebrauch kopieren und speichern. Der Kunde 
+versichert und stimmt zu, dass er die digitalen Produkte nur zum privaten und 
+schulinternen Gebrauch und nicht zur Weiterverbreitung der digitalen Inhalte oder 
+zu sonstigen Zwecken nutzen wird. Der Kunde verpflichtet sich, bei der Nutzung 
+der digitalen Produkte und deren Inhalte die Urheberrechte nicht zu verletzten 
+und alle anwendbaren Gesetze zu beachten. 
+
+
+5. Urheberrecht des Verlages
+Der Kunde verpflichtet sich weiterhin, die Inhalte der digitalen Produkte nicht 
+weiterzuverbreiten, zu uebermitteln, abzutreten, zu verkaufen, auszustrahlen, zu 
+vermieten, zu teilen, zu verleihen, zu aendern, anzupassen, zu bearbeiten, zu 
+lizenzieren oder in sonstiger Weise zu uebertragen oder zu nutzen, es sein denn, 
+dies wird ihm ausdruecklich durch den Verlag erlaubt. 
+
+
+6. Laufzeit des Produktes
+Laufzeit und Kuendigungsmoeglichkeiten der Abonnements von Online-Produkten und 
+Online-Diensten richten sich nach den jeweiligen Produktbeschreibungen, die dem 
+Kunden bei der Bestellung angezeigt werden. 
+
+
+7. Verfuegbarkeit
+Online-Produkte und Online-Dienste sind grundsaetzlich jederzeit verfuegbar. Fuer 
+diese permanente Verfuegbarkeit uebernimmt der Verlag allerdings keine 
+Gewaehrleistung und Haftung, da es aufgrund von technischen Erfordernissen zu 
+Einschraenkungen kommen kann. Stoerungen der Qualitaet des Zugangs zum Internet 
+und des Datenverkehrs im Internet aufgrund hoeherer Gewalt und aufgrund von 
+Ereignissen, die der Verlag nicht zu vertreten hat und die seine Leistungen 
+wesentlich erschweren oder unmoeglich machen, fuehren nicht zu einem Anspruch auf 
+Schadensersatz wegen der Nichtverfuegbarkeit. 
+
+
+8. Download und Sicherheitskopie
+Der Verlag fordert bei der Bestellung von digitalen Produkten den Kunden zum 
+unverzueglichen Download der Produkte und zur Anfertigung einer Sicherheitskopie 
+auf. Der Verlag behaelt sich das Recht vor, die digitalen Produkte und deren 
+Inhalte jederzeit und ohne Vorankuendigung zu veraendern, zu aktualisieren, zu 
+modifizieren oder zu loeschen. Aus diesem Zusammenhang kann kein Anspruch 
+gegenueber dem Verlag abgeleitet werden.
+Das Risiko fuer Verluste nach dem Kauf sowie fuer Verluste der digitalen Inhalte 
+einschliesslich Verlusten auf Grund eines Computer- oder Festplattenausfalls 
+traegt der Nutzer. Der Anbieter uebernimmt keinerlei Ersatz fuer Schaeden, die dem 
+Nutzer aus der Uebermittlung, Speicherung und Nutzung digitaler Inhalte jedweder 
+Art entstanden sind. 
+
+--------------------------------------------------------------------------------
+D. Nutzungsbedingungen fuer den Digitalen Unterrichtsassistenten 2.0
+
+1. Vertragsgegenstand und anwendbare Regelungen
+Komponenten des Digitalen Unterrichtsassistenten 2.0; anwendbare Regelungen, 
+technische Voraussetzungen; kein Anspruch auf kostenlose Updates/Upgrades
+
+1.1 Der Digitale Unterrichtsassistent 2.0 wird, soweit der Verlag 
+unterschiedliche Versionen anbietet, nach Wahl des Kunden als Software auf einem 
+Datentraeger bzw. als Software-Download oder als reiner Online-Dienst zu 
+Verfuegung gestellt. Je nachdem gelten daher ergaenzend zum Folgenden auch die 
+die obigen Bestimmungen im Abschnitt B. (Software) und/oder Abschnitt C. 
+(digitale Inhalte).
+
+1.2 Zur Installation der als Download und/oder auf einem Datentraeger gelieferten 
+Software muessen die in der Produktbeschreibung genannten technischen 
+Voraussetzungen auf dem Endgeraet des Kunden gegeben sein.
+
+1.3 Der Verlag kann nachtraeglich den Funktionsumfang erweitern und entscheiden, 
+ob die neuen Funktionen auch bestehenden Kunden kostenlos zur Verfuegung gestellt 
+werden. Ein Anspruch des Kunden auf kostenlose Updates oder Upgrades besteht 
+nicht.
+
+
+2. Online-Dienst
+Online-Zugang; Notizen und Verknuepfungen zu eigenen Inhalten; Synchronisation 
+mit dem Annotationsserver; Teilen-Funktion; Verantwortlichkeit fuer eigene Inhalte
+
+2.1 Zugang und technische Voraussetzungen
+Der Online-Dienst wird im "Mein Klett"-Arbeitsplatz des Kunden unter 
+http://www.klett.de/meinklett im Bereich "Meine digitalen Arbeitsmittel" 
+bereitgestellt. Zur Nutzung sind ein Kundenkonto und ein Internetzugang zwingend 
+erforderlich. Der Zugriff kann ueber jedes internetfaehige Endgeraet mit einem 
+gaengigen Browser erfolgen.
+
+2.2 Einfuegen von Notizen und Verknuepfungen zu eigenen Inhalten des Kunden
+
+2.2.1 Der Kunde kann im Digitalen Unterrichtsassistenten 2.0 bereitgestellte 
+Inhalte online mit Notizen versehen. Diese werden auf einem vom Verlag 
+betriebenen Annotations-Server gespeichert und sind ueber den "Mein Klett"-
+Arbeitsplatz zugaenglich. Die Notizen werden auch offline auf dem Endgeraet des 
+Kunden gespeichert und mit den Daten auf dem Server synchronisiert.
+
+2.2.2 Die Notizen sind fuer Dritte, auch fuer den Verlag selbst, nicht einsehbar 
+und koennen vom Kunden jederzeit wieder geloescht werden. Kuenftig wird bei 
+bestimmten Versionen auch eine Funktion zum Teilen der Notizen vorgesehen sein, 
+so dass im Einzelfall auch anderen Lehrkraeften innerhalb eines Kollegiums 
+Zugriff auf die eigenen Notizen eingeraeumt werden kann.
+
+2.2.3 Der Kunde kann die im Digitalen Unterrichtsassistenten 2.0. 
+bereitgestellten Inhalte durch eigene Inhalte (z.B. Arbeitsblaetter, Grafiken, 
+Texte) ergaenzen. Solche eigenen Inhalte koennen nicht auf dem Annotations-Server 
+gespeichert werden; der Kunde kann jedoch eine Verknuepfung zum Speicherort des 
+eigenen Inhalts herstellen. Die Verknuepfung kann auf einen lokalen Speicherplatz 
+(z.B. auf dem eigenen PC) oder einen Online-Speicherplatz (z.B. Server der Schule 
+oder Cloud-Speicherplatz) verweisen.
+
+2.2.4 Die Verknuepfungen sind fuer Dritte, auch fuer den Verlag selbst, nicht 
+einsehbar und koennen vom Kunden jederzeit wieder entfernt werden. Kuenftig wird 
+bei bestimmten Versionen auch eine Funktion zum Teilen der Verknuepfungen 
+vorgesehen sein, so dass im Einzelfall auch anderen Lehrkraeften innerhalb eines 
+Kollegiums Zugriff auf die eigenen Verknuepfungen eingeraeumt werden kann 
+(Voraussetzung fuer eine sinnvolle Nutzung ist, dass die Dritten auch Zugriff auf 
+den Speicherplatz des verknuepften Inhalts haben).
+
+2.3 Sicherheit und Verfuegbarkeit von eingefuegten Notizen und Verknuepfungen, 
+Verantwortung des Kunden
+
+2.3.1 Der Verlag stellt durch geeignete und angemessene Sicherheitsmassnahmen 
+sicher, dass die Notizen und Verknuepfungen auf dem Server nur fuer den Kunden 
+selbst und fuer solche Dritte einsehbar sind, mit denen der Kunde bestimmte 
+Inhalte ausdruecklich geteilt hat.
+
+2.3.2 Der Verlag uebernimmt keine Gewaehrleistung fuer die staendige 
+Verfuegbarkeit der synchronisierten Notizen und Verknuepfungen auf dem Server. 
+Der Kunde ist selbst dafuer verantwortlich, die von ihm benoetigten Daten auch 
+offline auf dem Endgeraet zu speichern, auf dem er den Digitalen 
+Unterrichtsassistenten 2.0 nutzt.
+
+2.3.3 Fuer Notizen und verknuepfte Inhalte ist der Kunde selbst verantwortlich, 
+insbesondere fuer die Beachtung des Datenschutzrechts bei personenbezogenen Daten 
+(z.B. Notizen, die sich auf Lehrkraefte sowie Schuelerinnen und Schueler beziehen) 
+und die Beachtung etwaiger Urheberrechte Dritter an den verknuepften Inhalten 
+(z.B. unter Mitarbeit Dritter oder unter Verwendung von Fremdinhalten erstellte 
+Materialien).
+
+
+3. Lizenzumfang
+Einzellizenz und Kollegiumslizenz; eventuelle Erweiterung des Lizenzumfangs
+
+3.1 Es handelt sich sowohl im Falle der Lieferung einer Software als auch bei der 
+Bereitstellung des Online-Dienstes, soweit der Verlag mehrere Versionen anbietet, 
+entweder um eine Einzellizenz, die an den Kunden persoenlich gebunden ist, oder 
+um eine der anderen Lizenzen mit den entsprechenden Regelungen zu Installation 
+und Nutzerkreis (siehe oben Abschnitt B.4). Es gilt die bei der Bestellung 
+gegebene Beschreibung des Produktes.
+
+3.2 Der Verlag kann im Rahmen eines Upgrades nach Ziffer 1.3 auch den 
+Lizenzumfang erweitern.
+
+
+Stand 15.5.2017
+
+
+

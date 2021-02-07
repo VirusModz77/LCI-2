@@ -1,0 +1,136 @@
+{
+  "include": "product.json",
+  "userInfo": {
+    "loginToken": "",
+    "nickName": ""
+  },
+  "annotations": {
+    "overwritable": false,
+    "enabled": false,
+    "sync": {
+      "redirectUrl": "",
+      "server": {
+        "baseUrl": "https://annotation.klett.de/annotation/rest/",
+        "httpAuth": {
+          "enabled": false,
+          "user": "wsuser",
+          "password": "Ws4758!"
+        },
+        "apiKey": "d3N1c2VyOldzNDc1OCE="
+      }
+    }
+  },
+    "usePdfOnIOS": {
+    "overwritable": false,
+    "enabled": false
+  },
+  "tooltips": {
+    "overwritable": false,
+    "enabled": true
+  },
+  "welcome": {
+    "overwritable": false,
+    "enabled": false
+  },
+  "pageTransition3d": {
+    "overwritable": false,
+    "enabled": false
+  },
+  "rememberLastPage": {
+    "overwritable": false,
+    "enabled": false
+  },
+
+  "ctrlCloudIcon": {
+    "overwritable": false,
+    "enabled": false,
+    "link": "https://bridge.klett.de"
+  },
+  "ctrlSearch": {
+    "overwritable": false,
+    "enabled": false
+  },
+  "ctrlMenuInfo": {
+    "overwritable": false,
+    "enabled": false
+  },
+  "ctrlHelp": {
+    "overwritable": false,
+    "enabled": false
+  },
+  "ctrlSettings": {
+    "overwritable": false,
+    "enabled": false
+  },
+
+  "newsService": {
+    "overwritable": false,
+    "enabled": false,
+    "baseUrl": "https://www.klett.de/api/duanews/1.0/"
+  },
+  "sidebar":{
+    "overwritable": false,
+    "enabled": false
+  },
+
+  "ctrlAnnotations": {
+    "overwritable": false,
+    "enabled": false
+  },
+  "ctrlNotes": {
+    "overwritable": false,
+    "enabled": false
+  },
+  "ctrlLine": {
+    "overwritable": false,
+    "enabled": false
+  },
+  "ctrlDraw": {
+    "overwritable": false,
+    "enabled": false
+  },
+  "ctrlSelect": {
+    "overwritable": false,
+    "enabled": false
+  },
+  "ctrlSelectAll": {
+    "overwritable": false,
+    "enabled": false
+  },
+  "ctrlDelete": {
+    "overwritable": false,
+    "enabled": false
+  },
+  "ctrlBookmark": {
+    "overwritable": false,
+    "enabled": false
+  },
+  "ctrlFullscreen": {
+    "overwritable": false,
+    "enabled": false
+  },
+  "ctrlInteractive": {
+    "overwritable": false,
+    "enabled": false
+  },
+  "ctrlCover": {
+    "overwritable": false,
+    "enabled": false
+  },
+  "ctrlFocus": {
+    "overwritable": false,
+    "enabled": false
+  },
+  "interactive":{
+    "overwritable": false,
+    "enabled": false
+  },
+  "content": {
+    "menu": [{
+      "type": "rubric",
+      "filter": null,
+      "title": "DUA",
+      "hasNews": true
+    }]
+  }
+}

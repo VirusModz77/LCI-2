@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+	<links>
+		<!-- open in a browser -->
+		<browse initiator="a[target='_browser']"/>
+		<browse targetUrl="^(http:|https:)"/>
+		<!-- open in a new desktop runtime -->
+		<fork initiator='a[data-file-type="application/x-shockwave-flash"]' />
+		<!-- open through the operating system -->
+		<open initiator='a[data-file-type^="application"], a[data-file-type$="executable"], a[href^="file:"]'capture="true"/>
+		<open initiator='a[data-file-type="online-link"]' capture="true"/>
+		<open targetUrl="\.pdf$"/>
+		<!-- save dialog -->
+		<save initiator='.save-link>a' />
+	</links>
+	<start>app.html</start>
+	<product_info>produkt.xml</product_info>
+	<!-- Examples storage_path: [W:\aFolder\..., \\aServer\..., %APPDATA%, %LOCALAPPDATA%, %USER_DOCUMENTS%] -->
+	<storage_path>%APPDATA%/Klett/dua</storage_path>
+	<window resizable="true" fullscreen="false" maximized="true" width="1024" height="768"/>
+</config>

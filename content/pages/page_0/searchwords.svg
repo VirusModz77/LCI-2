@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="768" height="1024" viewBox="0,0,768,1024" preserveAspectRatio="xMinYMin meet" >
+<style type="text/css">
+<![CDATA[
+path {fill-opacity: 0.5;fill: #00aeef;visibility: hidden;}
+]]>
+</style>
+<path d="M31.73 642.64l55.52 0l0 61.77l-55.52 0Z" id="p1w1" />
+<path d="M102.18 642.64l135.33 0l0 61.77l-135.33 0Z" id="p1w2" />
+<path d="M252.44 642.64l184.26 0l0 61.77l-184.26 0Z" id="p1w3" />
+</svg>

@@ -1,0 +1,125 @@
+{
+  "include": "../settings.json",
+  "annotations": {
+    "overwritable": false,
+    "enabled": false,
+    "sync": {
+      "allowed": false,
+      "enabled": false
+    }
+  },
+  "tooltips": {
+    "overwritable": true,
+    "enabled": true
+  },
+  "welcome": {
+    "overwritable": true,
+    "enabled": true
+  },
+  "rememberLastPage": {
+    "overwritable": false,
+    "enabled": false
+  },
+  "ctrlCloudIcon": {
+    "overwritable": false,
+    "enabled": false,
+    "link": ""
+  },
+  "ctrlSearch": {
+    "overwritable": false,
+    "enabled": true
+  },
+  "ctrlMenuInfo": {
+    "overwritable": false,
+    "enabled": true
+  },
+  "ctrlHelp": {
+    "overwritable": false,
+    "enabled": true
+  },
+  "ctrlSettings": {
+    "overwritable": false,
+    "enabled": true
+  },
+  "newsService": {
+    "overwritable": false,
+    "enabled": false,
+    "baseUrl": ""
+  },
+  "sidebar":{
+    "overwritable": false,
+    "enabled": false
+  },
+  "ctrlAnnotations": {
+    "overwritable": false,
+    "enabled": false
+  },
+  "ctrlNotes": {
+    "overwritable": false,
+    "enabled": false
+  },
+  "ctrlLine": {
+    "overwritable": false,
+    "enabled": false
+  },
+  "ctrlDraw": {
+    "overwritable": false,
+    "enabled": false
+  },
+  "ctrlSelect": {
+    "overwritable": false,
+    "enabled": false
+  },
+  "ctrlSelectAll": {
+    "overwritable": false,
+    "enabled": false
+  },
+  "ctrlDelete": {
+    "overwritable": false,
+    "enabled": false
+  },
+  "ctrlBookmark": {
+    "overwritable": false,
+    "enabled": false
+  },
+  "ctrlFullscreen": {
+    "overwritable": false,
+    "enabled": true
+  },
+  "ctrlInteractive": {
+    "overwritable": false,
+    "enabled": true
+  },
+  "ctrlCover": {
+    "overwritable": false,
+    "enabled": true
+  },
+  "ctrlFocus": {
+    "overwritable": false,
+    "enabled": true
+  },
+  "interactive":{
+    "overwritable": false,
+    "enabled": true
+  },
+    "closeDialogue": {
+    "overwritable": false,
+    "enabled": true
+  },
+ "content": {
+    "menu": [{
+      "type": "button",
+      "filter": {
+       "bottom": [],
+       "top": []
+      },
+      "title": "Digitale Präsentationsfassung",
+      "hasNews": false
+    }]
+  },
+  "expiration": {
+    "date": "30.09.2017",
+    "enabled": true,
+    "redirectUrl": "http://www.oebv-digital.at/digitale-praesentationsfassung/"
+  }
+}

@@ -1,0 +1,24 @@
+<!--EMOS START -->
+<script type="text/javascript">
+    window.emosTrackVersion = 2;
+</script>
+<script type="text/javascript" src="js/emos2.js"></script>
+<script type="text/javascript" src="js/jquery.1.12.0.js"></script>
+<script type="text/javascript" src="js/apptracking.js"></script>
+<script type="text/javascript">
+
+    if (typeof window.emosPropertiesEvent === 'function') {
+        var emospro = {
+            content:'digitale produkte/' + pagr.settings.productInfo.productForm + '/' + pagr.settings.productInfo.productNumber + '/' + pagr.settings.productInfo.subtitle,
+            pagetype: ['digitale produkte/' + pagr.settings.productInfo.productForm, 'online'],
+            pageId: 'digprod_' + pagr.settings.productInfo.productForm + '_' + pagr.settings.productInfo.productNumber ,
+            siteid: pagr.settings.productInfo.productForm + '.klett.de'
+        };
+        window.emosPropertiesEvent(emospro);
+    }
+</script>
+
+<script type="text/javascript">
+    var globalContent = 'digitale produkte/' + pagr.settings.productInfo.productForm + '/' + pagr.settings.productInfo.productNumber + '/' + pagr.settings.productInfo.subtitle;
+</script>
+<!-- EMOS END -->

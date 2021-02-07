@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productinfo>
+	<productform>dua</productform>
+	<title>Digitaler Unterrichtsassistent</title>
+	<subtitle>Le Cours intensif 2 Allgemeine Ausgabe 3. Fremdsprache ab 2016 2. Lernjahr</subtitle>
+	<app_id/>
+	<apptype>dua_html</apptype>
+	<appversion>2.10.0.3</appversion>
+	<runtimeversion>1.0.8.0</runtimeversion>
+	<output>offline</output>
+	<scope>full</scope>
+	<publisher>ekv</publisher>
+	<productnumber>978-3-12-563016-1</productnumber>
+	<annotation_server>
+		<service_id>DUA-ZLCK45NH6U</service_id>
+		<service_key>67dCtRfJ</service_key>
+		<mandant_id>KLETT_VERLAG</mandant_id>
+		<version>1.0</version>
+		<bookshelf_id>KLETT_BSH</bookshelf_id>
+	</annotation_server>
+	<protect_options>
+		<login_required>true</login_required>
+		<status_required>LEHRER</status_required>
+		<license_required>true</license_required>
+		<annoconnect_possible>true</annoconnect_possible>
+	</protect_options>
+	<lastchange>2017-11-07T14:59:46.571+01:00</lastchange>
+	<lastbuild>2017-11-10T13:15:38.571+01:00</lastbuild>
+	<contentversion>1.0.0.4</contentversion>  <project_id>348-2</project_id>
+</productinfo>

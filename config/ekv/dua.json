@@ -1,0 +1,39 @@
+{
+  "include": "settings.json",
+  "annotations": {
+    "overwritable": false,
+    "enabled": true,
+    "sync": {
+      "allowed": true,
+      "enabled": false
+    }
+  },
+  "newsService": {
+    "overwritable": false,
+    "enabled": true
+  },
+  "sidebar":{
+    "overwritable": false,
+    "enabled": true
+  },
+  "interactive":{
+    "overwritable": false,
+    "enabled": true
+  },
+  "cloudIcon": {
+    "overwritable": false,
+    "enabled": true
+  },
+  "welcome": {
+    "overwritable": true,
+    "enabled": true
+  },
+  "rememberLastPage": {
+    "overwritable": true,
+    "enabled": true
+  },
+  "search": {
+    "overwritable": false,
+    "enabled": true
+  }
+}

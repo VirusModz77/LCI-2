@@ -1,0 +1,6 @@
+{
+    "include": "../settings.json",
+	"logo": "imgs/logo_klett.png",
+	"annotations": {"sync": {"supportEmail": "support@klett.de"}},
+	"copyright": "Ernst Klett Verlag GmbH, Stuttgart"
+}

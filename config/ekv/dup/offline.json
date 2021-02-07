@@ -1,0 +1,129 @@
+{
+  "include": "../settings.json",
+  "annotations": {
+    "overwritable": true,
+    "enabled": true,
+    "sync": {
+      "enabled": false,
+      "server": {
+		"overwritable": false,
+        "baseUrl": "https://annotation.klett.de/annotation/rest/",
+        "httpAuth": {
+          "enabled": true,
+          "user": "wsuser",
+          "password": "Ws4758!"
+        },
+        "apiKey": "d3N1c2VyOldzNDc1OCE="
+      }
+    }
+  },
+  "tooltips": {
+    "overwritable": true,
+    "enabled": true
+  },
+  "welcome": {
+    "overwritable": true,
+    "enabled": true
+  },
+  "rememberLastPage": {
+    "overwritable": true,
+    "enabled": true
+  },
+  "ctrlCloudIcon": {
+    "overwritable": false,
+    "enabled": true,
+    "link": "https://bridge.klett.de"
+  },
+  "ctrlSearch": {
+    "overwritable": false,
+    "enabled": true
+  },
+  "ctrlMenuInfo": {
+    "overwritable": false,
+    "enabled": true
+  },
+  "ctrlHelp": {
+    "overwritable": false,
+    "enabled": true
+  },
+  "ctrlSettings": {
+    "overwritable": false,
+    "enabled": true
+  },
+  "newsService": {
+    "overwritable": false,
+    "enabled": true,
+    "baseUrl": "https://www.klett.de/api/duanews/1.0/"
+  },
+  "sidebar":{
+    "overwritable": false,
+    "enabled": true
+  },
+  "ctrlAnnotations": {
+    "overwritable": false,
+    "enabled": true
+  },
+  "ctrlNotes": {
+    "overwritable": false,
+    "enabled": true
+  },
+  "ctrlLine": {
+    "overwritable": false,
+    "enabled": true
+  },
+  "ctrlDraw": {
+    "overwritable": false,
+    "enabled": true
+  },
+  "ctrlSelect": {
+    "overwritable": false,
+    "enabled": true
+  },
+  "ctrlSelectAll": {
+    "overwritable": false,
+    "enabled": true
+  },
+  "ctrlDelete": {
+    "overwritable": false,
+    "enabled": true
+  },
+  "ctrlBookmark": {
+    "overwritable": false,
+    "enabled": true
+  },
+  "ctrlFullscreen": {
+    "overwritable": false,
+    "enabled": true
+  },
+  "ctrlInteractive": {
+    "overwritable": false,
+    "enabled": true
+  },
+  "ctrlCover": {
+    "overwritable": false,
+    "enabled": true
+  },
+  "ctrlFocus": {
+    "overwritable": false,
+    "enabled": true
+  },
+  "interactive":{
+    "overwritable": false,
+    "enabled": true
+  },
+    "closeDialogue": {
+    "overwritable": false,
+    "enabled": true
+  },
+  "onlineCheck": {
+    "enabled": true,
+	"interval": 10,
+    "url": "https://bridge.klett.de/online_check"
+  },
+  "content": {
+    "menu": [{
+        "withOnlineRefs": true
+    }
+    ]
+  }
+}

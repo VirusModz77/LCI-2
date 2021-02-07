@@ -1,0 +1,118 @@
+
+--------------------------------------------------------------------------------
+Liesmich.txt			- Le Cours intensif 2- 			    1.9.0
+--------------------------------------------------------------------------------
+
+Inhalt 
+1. Installation
+2. Deinstallation
+3. Systemvoraussetzungen
+4. Hinweise zum Programm
+5. Software-Support
+6. Kundenservice
+7. Copyright-Informationen
+
+--------------------------------------------------------------------------------
+
+1. Installation
+
+* Windows: Es ist keine Installation vorgesehen.
+Die Software laesst sich direkt von der DVD-ROM starten.
+Soll das Programm vom lokalen Rechner aus betrieben werden, kopieren Sie den 
+Anwendungsordner von der DVD-ROM direkt in einen Ordner auf Ihrer Festplatte. 
+
+* Mac OS X: Beim Start des Programmes wird ein Fenster zum Kopieren der Anwendungsdaten 
+geöffnet. Ziehen Sie den Anwendungs-Ordner in den Programme-Ordner um den Kopierprozess 
+anzustossen.
+
+* Anpassung des Speicherpfades fuer Benutzerdaten
+Der Speicherpfad fuer die Daten, die waehrend der Benutzung entstehen kann in der Datei
+config.xml, die sich neben der Startapplikation befindet angepasst werden. Dazu wird das
+Element <storage_path> abgeaendert.
+
+<storage_path>%APPDATA%/klett/dua</storage_path>
+Die Konstanten %APPDATA%,  %LOCALAPPDATA% oder %USER_DOCUMENTS% legen fest, dass je
+nach Betriebssystem das entsprechende User-Verzeichnis ermittelt wird.
+Neben der Konstante koennen auch direkte lokale Pfadangaben (z.B. C:/daten/klett/dua),
+Netzwerk-Laufwerksverknuepfungen (z.B. H:/benutzerdaten/klett/dua) oder Netzwerk-
+UNC-Verknuepfungen (z.B. //server/daten/klett/dua) angegeben werden.
+Nach Aenderung des Speicherpfades muss die Anwendung neu gestartet werden.
+
+--------------------------------------------------------------------------------
+
+2. Deinstallation
+
+* Ist das Programm auf die Festplatte kopiert, so koennen die Dateien durch 
+Verschieben des entsprechenden Anwendungs-Ordners in den Papierkorb wieder geloescht werden.
+
+--------------------------------------------------------------------------------
+
+3. Systemvoraussetzungen
+
+Online im Browser: 
+aktueller Internetbrowser: Chrome, Firefox, IE, Microsoft Edge, Safari
+
+Offline auf CD-/DVD-ROM:
+Windows 7/8/10 
+4 GB RAM
+Mac OS X 10.9/10.10./10.11/10.12
+4 GB RAM
+CD/DVD-ROM-Laufwerk
+
+Adobe Reader und MS Word
+
+--------------------------------------------------------------------------------
+
+4. Hinweise zum Programm
+
+Offline:
+Das vorliegende Programm, ausgeliefert auf CD-ROM bzw. DVD, ist datenschutzrechtlich unbedenklich. Unter Windows ist das Programm nicht installationspflichtig, unter Mac OS X werden die Daten auf die Festplatte kopiert. Dabei werden keine von der Software oder vom Verlag initiierten Daten, auch keine personenbezogenen, von Dritten ueberprueft oder auf irgendwelche Datentraeger oder Server uebertragen.
+
+Online:
+Das vorliegende, auf CD-ROM/DVD bzw. im Browser ausgefuehrte Programm ist datenschutzrechtlich unbedenklich. Es werden keine von der Software oder vom Verlag initiierten Daten, auch keine personenbezogenen, von Dritten ueberprueft. 
+Nutzergenerierte Daten, wie z.B. die Synchronisierung von Notizen und Anmerkungen, werden zum spaeteren Online-Aufruf auf einen zentralen Klett-Server uebertragen. Die Daten sind auf einem nach aktuellem Stand der Technik sicheren Server bei einem deutschen Hosting-Anbieter abgelegt. Es greift das bundesdeutsche Datenschutzgesetz. 
+Die nutzergenerierten Daten koennen nur vom Nutzer selbst aufgerufen werden. 
+Die personenbezogenen Daten werden nur zum Zwecke der Erfuellung der angebotenen Dienste genutzt. 
+Die Ernst Klett Verlag GmbH als Betreiberin des Online-Angebots stellt sicher, dass keine Nutzerdaten an Dritte weitergegeben, verkauft oder fuer andere Zwecke als im Rahmen des Online-Services "Digitaler Unterrichtsassistent" verwendet werden.
+Es gelten unsere Allgemeinen Geschaeftsbedingungen, Nutzungsbedingungen und Hinweise zum Datenschutz.
+
+* Falls keine Internetverbindung besteht und ein externer Proxy-Dienst eingerichtet ist, kann es zu Verzoegerungen beim Anwendungsstart unter Mac OS X  kommen.	
+
+--------------------------------------------------------------------------------
+
+5. Software-Support
+
+Sollten Sie Probleme mit dem vorliegenden Programm haben, finden Sie in der
+Datei "Hotline.txt", die sich auf der obersten Ebene der CD-ROM befindet, 
+unsere Kontaktdaten und weitere Hilfestellungen.
+
+--------------------------------------------------------------------------------
+
+6. Kundenservice
+
+Wenn Sie zu diesem Programm inhaltliche Fragen bzw. Anmerkungen haben oder wenn
+Sie mehr ueber unsere weiteren Klett-Titel wissen moechten, dann erreichen Sie
+uns folgendermassen: 
+
+Telefon: 	07 11 / 66 72 13 33 (Montag bis Samstag 8 - 20 Uhr)
+Fax:	 	07 11 / 98 80 90 00 99
+E-Mail:	 	kundenservice@klett.de
+Internet:	www.klett.de
+
+Post:		Ernst Klett Verlag GmbH
+		Kundenservice 
+		Postfach 10 26 45
+		70022 Stuttgart
+
+--------------------------------------------------------------------------------
+
+7.  Copyright-Informationen
+
+Copyright(C) Ernst Klett Verlag GmbH, Stuttgart 2017
+Alle Rechte vorbehalten.
+
+Microsoft und Windows sind eingetragene Warenzeichen der Microsoft
+Corporation in den USA und/oder in anderen Laendern. 
+Fuer andere, in diesem Dokument genannte Firmen- oder Warenzeichen, Firmen- 
+und Markennamen etc. gilt dieser Hinweis entsprechend.
+

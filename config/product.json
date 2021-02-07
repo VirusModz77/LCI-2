@@ -1,0 +1,107 @@
+{
+  "pageTransition3d": {
+    "overwritable": true,
+    "enabled": true
+  },
+  "logo": "imgs/logo_klett.png",
+  "cloudIcon": {
+    "link": "<UNDEFINED>",
+    "overwritable": true,
+    "enabled": true
+  },
+  "newsService": {
+    "overwritable": true,
+    "enabled": false,
+    "baseUrl": "<UNDEFINED>"
+  },
+  "tooltips": {
+    "overwritable": true,
+    "enabled": true
+  },
+  "copyright": "Ernst Klett Verlag GmbH, Stuttgart",
+  "productInfo": {
+    "productForm": "dua",
+    "subtitle": "Le Cours intensif 2 Allgemeine Ausgabe 3. Fremdsprache ab 2016 2. Lernjahr",
+    "appVersion": "2.10.0.3",
+    "productNumber": "978-3-12-563016-1",
+    "title": "Digitaler Unterrichtsassistent",
+    "projectId": "348-2"
+  },
+  "search": {
+    "overwritable": true,
+    "enabled": true
+  },
+  "tracking": {
+    "file": "",
+    "includeIds": false,
+    "enabled": false
+  },
+  "sidebar": {
+    "overwritable": true,
+    "enabled": true
+  },
+  "onlineCheck": {
+    "enabled": false,
+    "url": "https://annotation.klett.de/annotation/rest/api-docs",
+    "interval": 4
+  },
+  "expiration": {
+    "redirectUrl": "<UNDEFINED>",
+    "enabled": false
+  },
+  "annotations": {
+    "sync": {
+      "redirectUrl": "<UNDEFINED>",
+      "overwritable": true,
+      "allowed": true,
+      "server": {
+        "baseParameter": {
+          "bookshelfId": "KLETT_BSH",
+          "dienstId": "DUA-ZLCK45NH6U",
+          "version": "1.0",
+          "dienstPassword": "67dCtRfJ",
+          "mandant": "KLETT_VERLAG"
+        },
+        "apiKey": "<UNDEFINED>",
+        "httpAuth": {
+          "password": "<UNDEFINED>",
+          "user": "<UNDEFINED>",
+          "enabled": false
+        },
+        "baseUrl": "<UNDEFINED>"
+      },
+      "enabled": true,
+      "supportEmail": "support@klett.de"
+    },
+    "overwritable": false,
+    "enabled": true
+  },
+  "content": {
+    "menu": [
+      {
+        "type": "rubric",
+        "filter": null,
+        "title": "DUA",
+        "hasNews": true
+      },
+      {
+        "type": "button",
+        "filter": null,
+        "title": "SLA",
+        "hasNews": false
+      }
+    ]
+  },
+  "usePdfOnIOS": {
+    "overwritable": true,
+    "enabled": true
+  },
+  "closeDialogue": {
+    "overwritable": false,
+    "enabled": false
+  },
+  "rememberLastPage": {
+    "overwritable": true,
+    "enabled": true
+  }
+}
